@@ -1,5 +1,7 @@
 # Healthcare Workforce and Life Expectancy: A Global Policy Simulation Dashboard
 
+🔗 [Live app](https://ahmadzaihabib.shinyapps.io/healthcare-life-expectancy-dashboard/)
+
 An interactive R Shiny dashboard exploring how physician density, GDP per capita, and health expenditure per capita relate to life expectancy across countries and over time.
 
 ## What it does
